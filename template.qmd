@@ -57,6 +57,7 @@ All labs are held in the **South Eveleigh Precinct** (more on this later):
 
 Attendance is **mandatory** for lectures and labs.
 
+### Marking Attendance
 Try the QR check-in:
 
 TBC
@@ -88,18 +89,25 @@ The new Redfern Station Concourse has a local traffic gate which allows you to s
 ### Driving
 Free parking is available around Henderson Road, but it is extremely crowded. We do *not* recommend driving to the precinct.
 :::
-
+:::
 ::::
 
 
+## Biomedical Building
 
-# Why am I studying statistics?
+
+![](images/biomedical.jpg)
+
+Credit: Michael Wheatland
+
+
+# Why study statistics?
 
 > Doesn't seem relevant to my degree...
 
 ## Learn, so you can...
 
-- Effectively conduct research; but if you are not a researcher, you can still…
+- Conduct effective research; but if you are not a researcher, you can still…
 - Critically evaluate research findings; but if you don’t plan to read scientific literature, you can still…
 - Make informed decisions based on evidence and know the signs when someone is trying to mislead you.
 
@@ -109,7 +117,7 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 - Free and open source. You can use it for your own research, or for your future job. Proprietary software (e.g. SPSS, SAS) can cost thousands of dollars per year.
 - A gentle introduction to programming, which is a highly sought-after skill in the job market (even if you don’t plan to become a programmer).
 
-# Doing well
+# Doing well {{< fa trophy >}}
 
 ## Attend all lectures
 

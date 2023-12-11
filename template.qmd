@@ -17,12 +17,21 @@ The University of Sydney is on Gadigal Country. We acknowledge their ongoing con
 # About
 
 ## Staff
-- Aaron Greenville (Coordinator, Lecturer)
-- Januar Harianto (Lecturer)
-- Mathew Crowther (Lcturer)
+
+::: {layout-ncol=3 style="text-align:center;"}
+
+
+![Aaron Greenville](images/aaron.tiff){width=200}
+
+![Januar Harianto](images/januar.jpeg){width=230}
+
+![Mathew Crowther](images/matcrowther.jpeg){width=205}
+:::
+
 
 ### Demonstrators
 TBC
+
 
 
 # Thanks!

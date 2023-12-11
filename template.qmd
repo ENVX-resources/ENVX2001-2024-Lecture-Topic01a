@@ -70,7 +70,7 @@ TBC
 ::: {.column width=50%}
 ### Walking
 
-Image
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3311.892510223299!2d151.19220377714373!3d-33.89242207028511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12b1d46683b08b%3A0x16d4584b9e392df3!2sCarslaw%20Building%2C%20University%20of%20Sydney%2C%20Camperdown%20NSW%2C%20Australia!3m2!1d-33.8885751!2d151.1903621!4m5!1s0x6b12b1ce3cfcd14d%3A0xe363fbe9239512d6!2s1%20Central%20Avenue%2C%20Eveleigh%20NSW%2C%20Australia!3m2!1d-33.896277999999995!2d151.19577999999998!5e0!3m2!1sen!2smy!4v1702530988987!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ::: {.callout-tip}
 The new Redfern Station Concourse has a local traffic gate which allows you to save about 5 minutes of walking (no OPAL card required).
@@ -78,6 +78,7 @@ The new Redfern Station Concourse has a local traffic gate which allows you to s
 :::
 
 ::: {.column width=50%}
+::: {.fragment}
 ### Buses
 [Courtesy buses][buses] are available:
 

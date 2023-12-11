@@ -32,9 +32,42 @@ The University of Sydney is on Gadigal Country. We acknowledge their ongoing con
 ### Demonstrators
 TBC
 
+## Structure
+
+### Lectures
+### Tutorials
+### Labs
+
+## Attendance
+
+# South Eveleigh Precinct
+
+## Directions
+
+:::: {.columns}
+Walking directions
+::::
+
+# Why am I studying statistics?
+
+> Doesn't seem relevant to my degree...
+
+## Learn, so you can...
+
+- Effectively conduct research; but if you are not a researcher, you can still…
+- Critically evaluate research findings; but if you don’t plan to read scientific literature, you can still…
+- Make informed decisions based on evidence and know the signs when someone is trying to mislead you.
+
+# Doing well
+
+## Attend all lectures
+
+## Put in the hours
+
+## Resources
 
 
-# Thanks!
+# Questions?
 
 This presentation is based on the [SOLES Quarto reveal.js template](https://github.com/usyd-soles-edu/soles-revealjs) and is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 

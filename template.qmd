@@ -35,18 +35,62 @@ TBC
 ## Structure
 
 ### Lectures
+
+**Tue 10 AM** -- [Chemistry Lecture Theatre 1][clt01]
+
+**Wed 11 AM** -- [Chemistry Lecture Theatre 3][clt03]
+
+
+
 ### Tutorials
+
+**Self-guided** sessions (1 hour), to be completed before the week's lab.
+
 ### Labs
 
+All labs are held in the **South Eveleigh Precinct** (more on this later):
+
+- Thursday 9 am – 12 pm
+- Friday 10 am – 1 pm, 2 pm – 5 pm
+
 ## Attendance
+
+Attendance is **mandatory** for lectures and labs.
+
+Try the QR check-in:
+
+TBC
 
 # South Eveleigh Precinct
 
 ## Directions
 
 :::: {.columns}
-Walking directions
+
+::: {.column width=50%}
+### Walking
+
+Image
+
+::: {.callout-tip}
+The new Redfern Station Concourse has a local traffic gate which allows you to save about 5 minutes of walking (no OPAL card required).
+:::
+:::
+
+::: {.column width=50%}
+### Buses
+[Courtesy buses][buses] are available:
+
+- Best option is to take the bus from **Fisher Library** to **Redfern Station**, then walk to the precinct (through the new station platform as “local traffic”).
+- Alternatively, direct buses are available -- but less frequent.
+
+### Driving
+Free parking is available around Henderson Road, but it is extremely crowded. We do *not* recommend driving to the precinct.
+:::
+
 ::::
+
+
 
 # Why am I studying statistics?
 
@@ -58,17 +102,41 @@ Walking directions
 - Critically evaluate research findings; but if you don’t plan to read scientific literature, you can still…
 - Make informed decisions based on evidence and know the signs when someone is trying to mislead you.
 
+## But, why R?
+
+- Arguably the most popular statistical programming language in the world. Used by researchers, data scientists, and industry professionals.
+- Free and open source. You can use it for your own research, or for your future job. Proprietary software (e.g. SPSS, SAS) can cost thousands of dollars per year.
+- A gentle introduction to programming, which is a highly sought-after skill in the job market (even if you don’t plan to become a programmer).
+
 # Doing well
 
 ## Attend all lectures
 
+### Attending a lecture is not the same as watching a recording…
+
+- You can ask questions and interact with your peers.
+- Your lecturer actively adjusts the pace/conten based on your informal feedback (e.g. confused looks, Google polls).
+- If you don’t understand something, there is a good chance that you can address issue before the next lecture or lab.
+
 ## Put in the hours
 
+- This is a 6 credit point unit, which means that you are expected to spend 130 – 150 hours in total, including exam prep time (~10 h per week)!
+- Practice makes perfect. Tutorials and Labs help you apply the concepts you learn in lectures – complete all the exercises, and practice with the bonus questions provided.
+
 ## Resources
+
+- Use Ed for ALL questions related to the unit.
+- You *may* ask ChatGPT if you are stuck, or need help to understand something more general.
+- Drop-in sessions are available for you to get help with the unit – check Ed for the schedule.
 
 
 # Questions?
 
 This presentation is based on the [SOLES Quarto reveal.js template](https://github.com/usyd-soles-edu/soles-revealjs) and is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
+
+<!-- Links -->
+[clt01]: https://venueweb.sydney.edu.au/F11.01.145
+[clt03]: https://venueweb.sydney.edu.au/F11.02.238
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
+[buses]: https://www.sydney.edu.au/about-us/campuses/getting-to-campus/campus-bus-timetables.html

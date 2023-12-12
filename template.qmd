@@ -16,6 +16,8 @@ The University of Sydney is on Gadigal Country. We acknowledge their ongoing con
 
 # About
 
+Staff | Structure | Attendance
+
 ## Staff
 
 ::: {layout-ncol=3 style="text-align:center;"}
@@ -63,6 +65,13 @@ Try the QR check-in:
 TBC
 
 # South Eveleigh Precinct
+Used to be known as the **Australian Techonlogy Park** (ATP). *Still is, but it used to, too.*
+
+## Biomedical Building
+![](images/biomedical.jpg)
+
+Credit: Michael Wheatland
+
 
 ## Directions
 
@@ -73,9 +82,6 @@ TBC
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3311.892510223299!2d151.19220377714373!3d-33.89242207028511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12b1d46683b08b%3A0x16d4584b9e392df3!2sCarslaw%20Building%2C%20University%20of%20Sydney%2C%20Camperdown%20NSW%2C%20Australia!3m2!1d-33.8885751!2d151.1903621!4m5!1s0x6b12b1ce3cfcd14d%3A0xe363fbe9239512d6!2s1%20Central%20Avenue%2C%20Eveleigh%20NSW%2C%20Australia!3m2!1d-33.896277999999995!2d151.19577999999998!5e0!3m2!1sen!2smy!4v1702530988987!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-::: {.callout-tip}
-The new Redfern Station Concourse has a local traffic gate which allows you to save about 5 minutes of walking (no OPAL card required).
-:::
 :::
 
 ::: {.column width=50%}
@@ -93,50 +99,72 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 ::::
 
 
-## Biomedical Building
-
-
-![](images/biomedical.jpg)
-
-Credit: Michael Wheatland
-
-
 # Why study statistics?
 
 > Doesn't seem relevant to my degree...
 
 ## Learn, so you can...
 
+::: {.incremental}
 - Conduct effective research; but if you are not a researcher, you can still…
 - Critically evaluate research findings; but if you don’t plan to read scientific literature, you can still…
 - Make informed decisions based on evidence and know the signs when someone is trying to mislead you.
+:::
+
+::: {.fragment}
+
+> "They've done studies, you know. 60% of the time, it works every time." -- Brian Fantana, *Anchorman* (2004)
+
+![](images/anchorman.gif){fig-align="center" height=350}
+:::
 
 ## But, why R?
 
-- Arguably the most popular statistical programming language in the world. Used by researchers, data scientists, and industry professionals.
-- Free and open source. You can use it for your own research, or for your future job. Proprietary software (e.g. SPSS, SAS) can cost thousands of dollars per year.
-- A gentle introduction to programming, which is a highly sought-after skill in the job market (even if you don’t plan to become a programmer).
+:::{.fragment}
+:::: {.columns}
+::: {.column width=50%}
+#### Mechanical stress on plant tissue
+![](images/raster.gif)
+
+[Source](https://doi.org/10.1111/tpj.13290)
+:::
+
+::: {.column width=50%}
+#### Climate stripes 
+\
+\
+\
+\
+\
+![](images/au-climate-2023.png)
+
+[Source](https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/)
+:::
+::::
+:::
+
 
 # Doing well {{< fa trophy >}}
 
-## Attend all lectures
+Attend all lectures | Put in the hours | Ask questions
 
-### Attending a lecture is not the same as watching a recording…
+## {{< fa trophy >}} Attend ALL lectures 
+### Attending a lecture is *not* the same as watching a recording...
+- You can **ask questions** and *interact* with your peers.
+- Your **lecturer** actively adjusts the pace/conten based on your *informal* feedback (e.g. confused looks, Google polls).
+- If you don't *understand* something, there is a *good* chance that you can address it *before* the next lecture or lab.
 
-- You can ask questions and interact with your peers.
-- Your lecturer actively adjusts the pace/conten based on your informal feedback (e.g. confused looks, Google polls).
-- If you don’t understand something, there is a good chance that you can address issue before the next lecture or lab.
+## {{< fa trophy >}} Put in the hours 
+- This is a **6 credit point** unit, which means that you are expected to spend **130 -- 150 hours** in total, including exam prep time (~10 h per week)!
+- **Practice makes perfect**. Tutorials and Labs help you apply the concepts you learn in lectures -- complete all the exercises, and practice with the bonus questions provided.
 
-## Put in the hours
+![](images/adventuretime.gif){fig-align="center" height=350}
 
-- This is a 6 credit point unit, which means that you are expected to spend 130 – 150 hours in total, including exam prep time (~10 h per week)!
-- Practice makes perfect. Tutorials and Labs help you apply the concepts you learn in lectures – complete all the exercises, and practice with the bonus questions provided.
+## Ask questions
 
-## Resources
-
-- Use Ed for ALL questions related to the unit.
-- You *may* ask ChatGPT if you are stuck, or need help to understand something more general.
-- Drop-in sessions are available for you to get help with the unit – check Ed for the schedule.
+- [**Ed**][edsite] is the *best* place to ask questions. We are way more responsive on **Ed** than on email.
+- You *may* ask **ChatGPT** if you are stuck, or need help to understand something more general.
+- We have drop-in sessions, where you can jump in and have a chat on Zoom. We will announce the schedule on **Ed**.
 
 
 # Questions?
@@ -149,3 +177,4 @@ This presentation is based on the [SOLES Quarto reveal.js template](https://gith
 [clt03]: https://venueweb.sydney.edu.au/F11.02.238
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [buses]: https://www.sydney.edu.au/about-us/campuses/getting-to-campus/campus-bus-timetables.html
+[edsite]:https://edstem.org/au/dashboard

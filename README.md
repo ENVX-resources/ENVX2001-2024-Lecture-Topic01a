@@ -3,8 +3,8 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 > [!Note]
-> - Year: 2024 - Semester 1
-> - Lecturer: Dr. Januar Harianto
+> **Year** 2024 - Semester 1\
+> **Lecturer** Dr. Januar Harianto
 
 ## Lecture 1a - Welcome
 
@@ -24,3 +24,7 @@ This work is licensed under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## Contribution guidelines
+
+Staff and students are welcome to contribute to this repository. If you would like to do so, fork this repository and submit a pull request. Or discuss your ideas in the **Issues** section of this repository.

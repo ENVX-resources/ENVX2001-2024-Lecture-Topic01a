@@ -106,9 +106,9 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 ## Learn, so you can...
 
 ::: {.incremental}
-- Conduct effective research; but if you are not a researcher, you can still…
-- Critically evaluate research findings; but if you don’t plan to read scientific literature, you can still…
-- Make informed decisions based on evidence and know the signs when someone is trying to mislead you.
+- Conduct effective **research**; *but if you are not a researcher*, you can still…
+- Critically **evaluate** research findings; *but if you don’t plan to read scientific literature*, you can still…
+- Make informed **decisions** based on evidence and know the signs when someone is trying to mislead you.
 :::
 
 ::: {.fragment}
@@ -160,14 +160,16 @@ Attend all lectures | Put in the hours | Ask questions
 
 ![](images/adventuretime.gif){fig-align="center" height=350}
 
-## Ask questions
+## {{< fa person-circle-question >}} Ask questions
 
 - [**Ed**][edsite] is the *best* place to ask questions. We are way more responsive on **Ed** than on email.
 - You *may* ask **ChatGPT** if you are stuck, or need help to understand something more general.
 - We have drop-in sessions, where you can jump in and have a chat on Zoom. We will announce the schedule on **Ed**.
 
 
-# Questions?
+## Let's get started!
+
+### Questions?
 
 This presentation is based on the [SOLES Quarto reveal.js template](https://github.com/usyd-soles-edu/soles-revealjs) and is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 

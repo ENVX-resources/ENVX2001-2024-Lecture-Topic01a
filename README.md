@@ -1,15 +1,11 @@
-### ENVX2001 Applied Statistical Methods
-#### Lecture 1 - Welcome 
+## ENVX2001 Applied Statistical Methods
+### Lecture 1 - Welcome 
 
-> **Year**: 2024  
-> **Semester**: 1  
-> **Lecturer**: Dr. Januar Harianto
+Dr. Januar Harianto | Semester 1, 2024
 
-### Links
-HTML  
-PDF
+[HTML]() | [PDF]()
 
-#### License and attribution
+## License and attribution
 
 This work was developed using resources that are available under a [Creative Commons Attribution 4.0 International license][cc-by], made available on the [SOLES Open Educational Resources repository][soles-oer].
 

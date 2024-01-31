@@ -1,7 +1,7 @@
 ## ENVX2001 Applied Statistical Methods
 ### Lecture 1 - Welcome 
 
-Dr. Januar Harianto | Semester 1, 2024
+**Dr. Januar Harianto** | Semester 1, 2024
 
 [HTML]() | [PDF]()
 

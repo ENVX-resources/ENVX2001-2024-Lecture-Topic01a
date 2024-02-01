@@ -1,7 +1,7 @@
 ---
-title: ENVX2001 -- Welcome
-subtitle: School of Life and Environmental Sciences (SOLES)
-author: Januar Harianto | Lecturer in Biostatistics
+title: Welcome
+subtitle: ENVX2001 Applied Statistical Methods
+author: Dr. Januar Harianto 
 institute: The University of Sydney
 date: last-modified # today | last-modified
 date-format: "MMM YYYY" # see https://momentjs.com/docs/#/displaying/format/
@@ -20,10 +20,12 @@ Staff | Structure | Attendance
 
 ## Staff
 
-::: {layout-ncol=3 style="text-align:center;"}
+::: {layout-ncol=4 style="text-align:center;"}
 
 
 ![Aaron Greenville](images/aaron.tiff){width=200}
+
+![Liana Pozza](images/liana.jpeg){width=206}
 
 ![Januar Harianto](images/januar.jpeg){width=230}
 
@@ -32,7 +34,8 @@ Staff | Structure | Attendance
 
 
 ### Demonstrators
-TBC
+
+*Check Canvas*
 
 ## Structure
 
@@ -57,12 +60,8 @@ All labs are held in the **South Eveleigh Precinct** (more on this later):
 
 ## Attendance
 
-Attendance is **mandatory** for lectures and labs.
+Attendance is **mandatory** for labs and we hope to see you in person for Lectures!
 
-### Marking Attendance
-Try the QR check-in:
-
-TBC
 
 # South Eveleigh Precinct
 Used to be known as the **Australian Techonlogy Park** (ATP). *Still is, but it used to, too.*
@@ -113,9 +112,9 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 
 ::: {.fragment}
 
-> "They've done studies, you know. 60% of the time, it works every time." -- Brian Fantana, *Anchorman* (2004)
 
-![](images/anchorman.gif){fig-align="center" height=350}
+
+![Source: *Anchorman* (2004)](images/anchorman.gif){fig-align="left" height=350}
 :::
 
 ## But, why R?
@@ -171,7 +170,7 @@ Attend all lectures | Put in the hours | Ask questions
 
 ### Questions?
 
-This presentation is based on the [SOLES Quarto reveal.js template](https://github.com/usyd-soles-edu/soles-revealjs) and is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+This presentation is based on the [SOLES Quarto reveal.js template](https://github.com/usyd-soles-edu/soles-revealjs) and is licensed under a [Creative Commons Attribution 4.0 International License][cc-by] 
 
 
 <!-- Links -->

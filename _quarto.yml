@@ -26,3 +26,5 @@ format:
   #   # cosmiclatte: false # set true to turn on an off-white page background colour
   # pptx:
   #   reference-doc: _resources/templates/pptx/cosmic-latte.pptx
+execute:
+  freeze: auto

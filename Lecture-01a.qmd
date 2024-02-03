@@ -33,9 +33,7 @@ Staff | Structure | Attendance
 :::
 
 
-### Demonstrators
 
-*Check Canvas*
 
 ## Structure
 
@@ -60,7 +58,25 @@ All labs are held in the **South Eveleigh Precinct** (more on this later):
 
 ## Attendance
 
-Attendance is **mandatory** for labs and we hope to see you in person for Lectures!
+- Mandatory for labs, **80%** minimum required.
+- Lecture attendance is highly recommended, but not compulsory.
+- Lecture recordings capture slides and audio *only*. You will miss out on important discussions and informal feedback.
+
+
+## Assessments 
+
+```{r}
+#| code-fold: true
+
+library(gt)
+assessments <- data.frame(
+  Assessment = c("Project 1", "Project 2", "Project 3", "Canvas Quizzes", "Final exam"),
+  Weight = c(10, 20, 20, 5, 45),
+  Due = c("Week 5", "Week 10", "Week 13", "Weekly", "TBA"),
+  Description = c("Report -- Describing data", "Report -- Analysing experimental data", "Presentation -- Modeling multivariate data (Topics 7 to 12)", "Weekly quizzes", "2 hours, Multiple Choice Questions + Short Answers")
+)
+gt::gt(assessments) # will enhance this if there's time
+```
 
 
 # South Eveleigh Precinct
@@ -74,17 +90,7 @@ Credit: Michael Wheatland
 
 ## Directions
 
-:::: {.columns}
 
-::: {.column width=50%}
-### Walking
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3311.892510223299!2d151.19220377714373!3d-33.89242207028511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12b1d46683b08b%3A0x16d4584b9e392df3!2sCarslaw%20Building%2C%20University%20of%20Sydney%2C%20Camperdown%20NSW%2C%20Australia!3m2!1d-33.8885751!2d151.1903621!4m5!1s0x6b12b1ce3cfcd14d%3A0xe363fbe9239512d6!2s1%20Central%20Avenue%2C%20Eveleigh%20NSW%2C%20Australia!3m2!1d-33.896277999999995!2d151.19577999999998!5e0!3m2!1sen!2smy!4v1702530988987!5m2!1sen!2smy" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-:::
-
-::: {.column width=50%}
-::: {.fragment}
 ### Buses
 [Courtesy buses][buses] are available:
 
@@ -93,9 +99,13 @@ Credit: Michael Wheatland
 
 ### Driving
 Free parking is available around Henderson Road, but it is extremely crowded. We do *not* recommend driving to the precinct.
-:::
-:::
-::::
+
+---
+
+### Walking
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3311.892510223299!2d151.19220377714373!3d-33.89242207028511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6b12b1d46683b08b%3A0x16d4584b9e392df3!2sCarslaw%20Building%2C%20University%20of%20Sydney%2C%20Camperdown%20NSW%2C%20Australia!3m2!1d-33.8885751!2d151.1903621!4m5!1s0x6b12b1ce3cfcd14d%3A0xe363fbe9239512d6!2s1%20Central%20Avenue%2C%20Eveleigh%20NSW%2C%20Australia!3m2!1d-33.896277999999995!2d151.19577999999998!5e0!3m2!1sen!2smy!4v1702530988987!5m2!1sen!2smy" width="1200" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 # Why study statistics?
@@ -107,7 +117,7 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 ::: {.incremental}
 - Conduct effective **research**; *but if you are not a researcher*, you can still…
 - Critically **evaluate** research findings; *but if you don’t plan to read scientific literature*, you can still…
-- Make informed **decisions** based on evidence and know the signs when someone is trying to mislead you.
+- Make informed **decisions** based on evidence and know the signs when someone is trying to mislead you. 
 :::
 
 ::: {.fragment}
@@ -145,16 +155,16 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 
 # Doing well {{< fa trophy >}}
 
-Attend all lectures | Put in the hours | Ask questions
+Attend lectures | Put in the hours | Ask questions
 
-## {{< fa trophy >}} Attend ALL lectures 
+## {{< fa trophy >}} Attend lectures 
 ### Attending a lecture is *not* the same as watching a recording...
 - You can **ask questions** and *interact* with your peers.
 - Your **lecturer** actively adjusts the pace/conten based on your *informal* feedback (e.g. confused looks, Google polls).
 - If you don't *understand* something, there is a *good* chance that you can address it *before* the next lecture or lab.
 
 ## {{< fa trophy >}} Put in the hours 
-- This is a **6 credit point** unit, which means that you are expected to spend **130 -- 150 hours** in total, including exam prep time (~10 h per week)!
+- This is a **6 credit point** unit, which means that you are expected to spend **120 -- 150 hours** in total, including exam prep time (~10 h per week)!
 - **Practice makes perfect**. Tutorials and Labs help you apply the concepts you learn in lectures -- complete all the exercises, and practice with the bonus questions provided.
 
 ![](images/adventuretime.gif){fig-align="center" height=350}
@@ -162,8 +172,8 @@ Attend all lectures | Put in the hours | Ask questions
 ## {{< fa person-circle-question >}} Ask questions
 
 - [**Ed**][edsite] is the *best* place to ask questions. We are way more responsive on **Ed** than on email.
-- You *may* ask **ChatGPT** if you are stuck, or need help to understand something more general.
-- We have drop-in sessions, where you can jump in and have a chat on Zoom. We will announce the schedule on **Ed**.
+- We are *open* to the use of AI tools (including LLMs like ChatGPT) to help you answer questions about code... but don't use them to cheat *yourself* out of learning.
+- We have **drop-in sessions**, where you can jump in and have a chat on Zoom. We will announce the schedule on **Ed**.
 
 
 ## Let's get started!

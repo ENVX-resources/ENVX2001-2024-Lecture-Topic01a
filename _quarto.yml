@@ -1,6 +1,6 @@
 project:
   title: SOLES Quarto presentation
-  post-render: _postrender.R
+  # post-render: _postrender.R
 standalone: true
 slide-level: 2
 highlight-style: github

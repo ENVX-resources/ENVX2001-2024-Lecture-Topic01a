@@ -3,7 +3,8 @@
 
 **Dr. Januar Harianto** | Semester 1, 2024
 
-[HTML](https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic01a/) | [PDF]()
+[HTML](https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic01a/) | 
+[PDF](https://envx-resources.github.io/ENVX2001-2024-Lecture-Topic01a/Lecture-01a.pdf)
 
 ## License and attribution
 

@@ -122,7 +122,7 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 
 # Why study statistics?
 
-> Doesn't seem relevant to my degree...
+*Why would it be relevant to my (non-statistical) career?*
 
 ## Learn, so you can...
 
@@ -137,31 +137,6 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 
 
 ![Source: *Anchorman* (2004)](images/anchorman.gif){fig-align="left" height=350}
-:::
-
-## But, why R?
-
-:::{.fragment}
-:::: {.columns}
-::: {.column width=50%}
-#### Mechanical stress on plant tissue
-![](images/raster.gif)
-
-[Source](https://doi.org/10.1111/tpj.13290)
-:::
-
-::: {.column width=50%}
-#### Climate stripes 
-\
-\
-\
-\
-\
-![](images/au-climate-2023.png)
-
-[Source](https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/)
-:::
-::::
 :::
 
 
@@ -199,7 +174,7 @@ Attend lectures | Put in the hours | Ask questions
 - **LO7** appraise the validity of statistical analyses used publications.
 
 
-## Let's get started!
+## Thanks!
 
 ### Questions?
 

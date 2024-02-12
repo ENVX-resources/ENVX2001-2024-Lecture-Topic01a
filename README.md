@@ -3,6 +3,8 @@
 
 ## Lecture Topic 1a - Welcome
 
+[![status - Ready](https://img.shields.io/badge/status-Ready-success?style=for-the-badge)](#)
+
 [HTML][HTML] [PDF][PDF]
 
 **Dr. Januar Harianto** | Semester 1, 2024

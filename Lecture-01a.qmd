@@ -11,17 +11,6 @@ execute:
 self-contained: false
 ---
 
-```{r}
-#| include: false
-# find pdf file
-pdf_file <- list.files(pattern = ".pdf")
-
-```
-
-# [Download PDF](`r pdf_file`)
-Click above to access a .pdf version of this presentation.
-
-*Otherwise, continue navigating through the slides.*
 
 # Acknowledgement to Country
 The University of Sydney is on Gadigal Country. We acknowledge their ongoing connection to and ownership of this land and pay our respects to past, present and emerging leaders.

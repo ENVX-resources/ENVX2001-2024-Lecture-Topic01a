@@ -1,19 +1,20 @@
 ---
-title: Welcome
+title: Lecture 01a -- Welcome
 subtitle: ENVX2001 Applied Statistical Methods
 author: Dr. Januar Harianto 
 institute: The University of Sydney
 date: last-modified # today | last-modified
-date-format: "MMM YYYY" # see https://momentjs.com/docs/#/displaying/format/
-execute: 
-  eval: true
+date-format: "MMM YYYY"
+execute:
+  cache: false
   echo: true
-self-contained: false
+editor-options:
+  canonical: true
+toc: true
+toc-depth: 1
+toc-title: Outline
 ---
 
-
-# Acknowledgement to Country
-The University of Sydney is on Gadigal Country. We acknowledge their ongoing connection to and ownership of this land and pay our respects to past, present and emerging leaders.
 
 # About
 

@@ -129,23 +129,23 @@ Free parking is available around Henderson Road, but it is extremely crowded. We
 :::
 
 
-# Doing well {{< fa trophy >}}
+# Doing well
 
 Attend lectures | Put in the hours | Ask questions
 
-## {{< fa trophy >}} Attend lectures 
+## Attend lectures 
 ### Attending a lecture is *not* the same as watching a recording...
 - You can **ask questions** and *interact* with your peers.
 - Your **lecturer** actively adjusts the pace/conten based on your *informal* feedback (e.g. confused looks, Google polls).
 - If you don't *understand* something, there is a *good* chance that you can address it *before* the next lecture or lab.
 
-## {{< fa trophy >}} Put in the hours 
+## Put in the hours 
 - This is a **6 credit point** unit, which means that you are expected to spend **120 -- 150 hours** in total, including exam prep time (~10 h per week)!
 - **Practice makes perfect**. Tutorials and Labs help you apply the concepts you learn in lectures -- complete all the exercises, and practice with the bonus questions provided.
 
 ![](images/adventuretime.gif){fig-align="center" height=350}
 
-## {{< fa person-circle-question >}} Ask questions
+## Ask questions
 
 - [**Ed**][edsite] is the *best* place to ask questions. We are way more responsive on **Ed** than on email.
 - We are *open* to the use of AI tools (including LLMs like ChatGPT) to help you answer questions about code... but don't use them to cheat *yourself* out of learning.

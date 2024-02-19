@@ -25,15 +25,15 @@ Staff | Structure | Attendance
 ::: {layout-ncol=4 style="text-align:center;"}
 
 
-![Aaron Greenville](images/aaron.tiff){width=200}
+![A. Prof Aaron Greenville](images/aaron.tiff){width=200}
 
-![Liana Pozza](images/liana.jpeg){width=206}
+![Dr Liana Pozza](images/liana.jpeg){width=206}
 
-![Januar Harianto](images/januar.jpeg){width=230}
+![Dr Januar Harianto](images/januar.jpeg){width=230}
 
-![Mathew Crowther](images/matcrowther.jpeg){width=205}
+![Prof Mathew Crowther](images/matcrowther.jpeg){width=205}
+
 :::
-
 
 
 

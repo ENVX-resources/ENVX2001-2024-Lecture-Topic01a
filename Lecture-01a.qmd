@@ -36,7 +36,6 @@ Staff | Structure | Attendance
 :::
 
 
-
 ## Structure
 
 ### Lectures
@@ -163,6 +162,7 @@ Attend lectures | Put in the hours | Ask questions
 
 ### Questions?
 
+
 This presentation is based on the [SOLES Quarto reveal.js template](https://github.com/usyd-soles-edu/soles-revealjs) and is licensed under a [Creative Commons Attribution 4.0 International License][cc-by] 
 
 
@@ -172,3 +172,5 @@ This presentation is based on the [SOLES Quarto reveal.js template](https://gith
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [buses]: https://www.sydney.edu.au/about-us/campuses/getting-to-campus/campus-bus-timetables.html
 [edsite]:https://edstem.org/au/dashboard
+
+[Download pdf](Lecture-01a.pdf)

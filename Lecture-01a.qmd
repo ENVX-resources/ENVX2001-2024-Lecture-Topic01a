@@ -67,18 +67,13 @@ All labs are held in the **South Eveleigh Precinct** (more on this later):
 
 ## Assessments 
 
-```{r}
-#| code-fold: true
+- Check [Unit Outline](https://www.sydney.edu.au/units/ENVX2001/2024-S1C-ND-CC)
+- **Project 1: Describing data** -- 10% individual, due **Week 5**
+- **Project 2: Analysing experimental data** -- 20% individual, due **Week 10**
+- **Project 3: Presentation (multivariate)** -- 20% group, due **Week 13**
+- **Quizzes (weekly)** -- 5% individual, opens weekly, multiple due dates
+- **Exam** -- 45% individual: 2 hours, Multiple Choice Questions + Short Answers
 
-library(gt)
-assessments <- data.frame(
-    Assessment = c("Project 1", "Project 2", "Project 3", "Canvas Quizzes", "Final exam"),
-    Weight = c(10, 20, 20, 5, 45),
-    Due = c("Week 5", "Week 10", "Week 13", "Weekly", "TBA"),
-    Description = c("Report -- Describing data", "Report -- Analysing experimental data", "Presentation -- Modeling multivariate data (Topics 7 to 12)", "Weekly quizzes", "2 hours, Multiple Choice Questions + Short Answers")
-)
-gt::gt(assessments) # will enhance this if there's time
-```
 
 
 # South Eveleigh Precinct
